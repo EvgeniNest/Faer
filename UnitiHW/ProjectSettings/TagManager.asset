@@ -3,11 +3,7 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags:
-  - Enemy
-  - Item
-  - BreakDoor
-  - Trap
+  tags: []
   layers:
   - Default
   - TransparentFX

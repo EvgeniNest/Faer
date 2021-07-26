@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
 
 [RequireComponent(typeof(Light))]
+
 public class LightSetting : MonoBehaviour
 {
     [SerializeField]
